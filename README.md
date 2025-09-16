@@ -17,8 +17,8 @@
 - [Assets/](Assets/)
 - [Packages/](Packages/)
 - [ProjectSettings/](ProjectSettings/)
-- [README.md](README.md)
 - [.gitignore](.gitignore)
 - [.vsconfig](.vsconfig)
 - [.gitattributes](.gitattributes)
-Readme
+- [README.md](README.md)
+
