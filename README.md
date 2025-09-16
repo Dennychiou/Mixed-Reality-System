@@ -13,13 +13,18 @@
 ## 檔案結構
 
 ## 📂 點擊進入
-- [passthrough mode testing/](passthrough mode testing/)
-- [APK/](APK/)
-- [Assets/](Assets/)
-- [Packages/](Packages/)
-- [ProjectSettings/](ProjectSettings/)
-- [.gitignore](.gitignore)
-- [.vsconfig](.vsconfig)
-- [.gitattributes](.gitattributes)
-- [README.md](README.md)
+- [passthrough mode testing/](.)
+  - [APK/](APK/)
+    - [MonoBleedingEdge/](APK/MonoBleedingEdge/)
+    - [passthrough mode testing_Data/](APK/passthrough%20mode%20testing_Data/)
+    - [UnityCrashHandler64.exe](APK/UnityCrashHandler64.exe)
+    - [UnityPlayer.dll](APK/UnityPlayer.dll)
+    - [passthrough mode testing.exe](APK/passthrough%20mode%20testing.exe) 
+  - [Assets/](Assets/)
+  - [Packages/](Packages/)
+  - [ProjectSettings/](ProjectSettings/)
+  - [.gitignore](.gitignore)
+  - [.vsconfig](.vsconfig)
+  - [.gitattributes](.gitattributes)
+  - [README.md](README.md)
 
