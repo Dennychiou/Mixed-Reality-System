@@ -25,3 +25,4 @@
 * <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/677352ba-55c7-4488-b12e-bf5b0371c455" />
 * 於Assets中 Scripts檔案可以看到 .cs檔
 ## 使用流程文件
+[Open PDF](使用流程說明.pdf)
