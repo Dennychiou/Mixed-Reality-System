@@ -49,7 +49,6 @@ public class Spawner : MonoBehaviour
             UnityEngine.Quaternion spawnRotation = tunnel.rotation;
             GameObject car = Instantiate(objectToSpawn, spawnPosition, spawnRotation);
 
-            // 确保生成的车辆有 Automove 脚本，并设置速度
             Automove automove = car.GetComponent<Automove>();
             if (automove == null)
             {
