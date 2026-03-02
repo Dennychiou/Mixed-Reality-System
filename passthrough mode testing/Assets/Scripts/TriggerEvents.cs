@@ -28,7 +28,6 @@ public class TriggerEvents : MonoBehaviour
 
     void Start()
     {
-        // 确保 Spawner 的实例在 Start 方法中设置
         if (Spawner.Instance == null)
         {
             Debug.LogError("Spawner instance is not set in TriggerEvents script (Start).");
